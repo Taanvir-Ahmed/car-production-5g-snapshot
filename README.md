@@ -1,4 +1,4 @@
-# Cars, 5G and Patent Fees: A Beginner's Market Snapshot
+# Cars, 5G and Patent Fees: Market Snapshot & Royalty Estimate
 
 A small Excel + PowerPoint project. It looks at **which countries make the world's cars** and estimates **how much carmakers could pay for 4G/5G mobile patents** at public patent-pool prices.
 
